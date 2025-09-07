@@ -29,22 +29,21 @@
 
 ## 🏆 Featured Projects
 
-- [🌅 **Sunset Predictor**](https://github.com/kamronarabi/sunset-app)  
-  Predicts tomorrow’s sunset & pulls matching photos. Built with React, Google Places API, and OpenWeather.
-
 - [🏘️ **Housing Assembly Map**](https://kamronarabi.com)  
-  Leaflet-powered MERN app connecting Cape Town residents to housing resources:contentReference[oaicite:1]{index=1}.
+  Leaflet-powered MERN app connecting Cape Town residents to housing resources:contentReference[oaicite:1].
 
 - [💰 **Budget.ai**](https://budgetaifinance.vercel.app/)  
-  AI-powered budgeting app with Next.js, Supabase & Inngest. Features receipt scanning, AI insights, and secure API throttling:contentReference[oaicite:2]{index=2}.
+  AI-powered budgeting app with Next.js, Supabase & Inngest. Features receipt scanning, AI insights, and secure API throttling:contentReference[oaicite:2]{index=1}.
 
 - [🤖 **Personal Cloud LLM**](https://kamronarabisummer25.vercel.app/)  
-  Self-hosted Ollama + OpenWebUI on AWS EC2 (GPU), optimized for inference throughput:contentReference[oaicite:3]{index=3}.
+  Self-hosted Ollama + OpenWebUI on AWS EC2 (GPU), optimized for inference throughput:contentReference[oaicite:3]{index=2}.
+
+  - [🌅 **Sunset Predictor**](https://github.com/kamronarabi/sunset-app)  
+  Predicts tomorrow’s sunset & pulls matching photos. Built with React, Google Places API, and OpenWeather{index=3}.
 
 ---
 
 ## 📊 GitHub Stats
-![Kamron's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamronarabi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamronarabi&layout=compact&theme=radical)
 
 ---
@@ -59,10 +58,8 @@
 
 ## ✨ Fun Extras
 - ⚡ Favorite motto: *20% planning, 80% building*  
-- 🎮 Currently building a **Minesweeper clone in C++/SFML**  
+- 🎮 Currently building a **UFSEC Website** and leading the Cloud Team ☁️
 - 🌍 Global citizen: studied abroad in South Africa, bringing tech to real-world communities  
-
-![Visitor Count](https://profile-counter.glitch.me/kamronarabi/count.svg)
 
 <!--
 **kamronarabi/kamronarabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
