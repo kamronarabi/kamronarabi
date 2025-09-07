@@ -38,7 +38,7 @@
 - [🤖 **Personal Cloud LLM**](https://kamronarabisummer25.vercel.app/)  
   Self-hosted Ollama + OpenWebUI on AWS EC2 (GPU), optimized for inference throughput:contentReference[oaicite:3]{index=2}.
 
-  - [🌅 **Sunset Predictor**](https://github.com/kamronarabi/sunset-app)  
+- [🌅 **Sunset Predictor**](https://github.com/kamronarabi/sunset-app)  
   Predicts tomorrow’s sunset & pulls matching photos. Built with React, Google Places API, and OpenWeather{index=3}.
 
 ---
