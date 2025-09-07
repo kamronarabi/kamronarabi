@@ -57,9 +57,9 @@
 ---
 
 ## ✨ Fun Extras
-- ⚡ Favorite motto: *20% planning, 80% building*  
-- 🎮 Currently building a **UFSEC Website** and leading the Cloud Team ☁️
-- 🌍 Global citizen: studied abroad in South Africa, bringing tech to real-world communities  
+- ⚡ Favorite motto: "The day you plant the seed is not the day you eat the fruit."
+- 🧠 My mindset: *20% planning, 80% building*
+- 🎮 Currently building the **UFSEC Website** and leading the Cloud Team ☁️
 
 <!--
 **kamronarabi/kamronarabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
