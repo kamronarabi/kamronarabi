@@ -41,7 +41,7 @@
 - [🌅 **Sunset Predictor**](https://sunsetpredictor.vercel.app/)  
   Predicts tomorrow’s sunset & pulls matching photos. Built with React, Google Places API, and OpenWeather.
 
--[👤 **Portfolio Site**](https://kamronarabi.com/)
+- [👤 **Portfolio Site**](https://kamronarabi.com/)
   Learn more about me!
 
 ---
