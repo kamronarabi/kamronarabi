@@ -36,7 +36,7 @@
   AI-powered budgeting app with Next.js, Supabase & Inngest. Features receipt scanning, AI insights, and secure API throttling.
 
 - [🤖 **Personal Cloud LLM**]  
-  Self-hosted Ollama + OpenWebUI on AWS EC2 (GPU), optimized for inference throughput.
+  Self-hosted Ollama + OpenWebUI on AWS EC2 (GPU), cost optimized network designed by me.
 
 - [🌅 **Sunset Predictor**](https://sunsetpredictor.vercel.app/)  
   Predicts tomorrow’s sunset & pulls matching photos. Built with React, Google Places API, and OpenWeather.
