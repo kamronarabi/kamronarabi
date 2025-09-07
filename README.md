@@ -29,17 +29,20 @@
 
 ## 🏆 Featured Projects
 
-- [🏘️ **Housing Assembly Map**](https://kamronarabi.com)  
+- [🏘️ **Housing Assembly Map**](https://housingassemblymap.vercel.app)  
   Leaflet-powered MERN app connecting Cape Town residents to housing resources.
 
 - [💰 **Budget.ai**](https://budgetaifinance.vercel.app/)  
   AI-powered budgeting app with Next.js, Supabase & Inngest. Features receipt scanning, AI insights, and secure API throttling.
 
-- [🤖 **Personal Cloud LLM**](https://kamronarabisummer25.vercel.app/)  
+- [🤖 **Personal Cloud LLM**]  
   Self-hosted Ollama + OpenWebUI on AWS EC2 (GPU), optimized for inference throughput.
 
-- [🌅 **Sunset Predictor**](https://github.com/kamronarabi/sunset-app)  
+- [🌅 **Sunset Predictor**](https://sunsetpredictor.vercel.app/)  
   Predicts tomorrow’s sunset & pulls matching photos. Built with React, Google Places API, and OpenWeather.
+
+-[👤 **Portfolio Site**](https://kamronarabi.com/)
+  Learn more about me!
 
 ---
 
