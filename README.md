@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 Software Engineer intern experience in **React/Node/Mongo** building community mapping tools in Cape Town  
+- 💻 Software Engineer intern experience from Corporate Fin-Tech to building software solutions for community orgs in South Africa
 - 📈 Head of Professional Development @ UFSEC — designing workshops, fireside chats & helping 50+ peers land internships  
 - ⚡ Cloud projects in **AWS, GCP, Docker, VPCs** and self-hosted LLMs  
 - 🎯 Passionate about full-stack apps, AI agents, and turning ideas into shipped products  
